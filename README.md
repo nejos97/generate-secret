@@ -29,8 +29,8 @@ Secret Generator API is a small application developed using [FastAPI](https://fa
 1. Clone the repository:
 
    ```bash
-   git clone <REPOSITORY_URL>
-   cd <PROJECT_NAME>
+   git clone https://github.com/nejos97/generate-secret.git
+   cd generate-secret
    ```
 
 2. Create a virtual environment and activate it:
